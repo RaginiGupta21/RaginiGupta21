@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=002147&height=170&section=header&text=Ragini%20Gupta&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%26%20Analytics&descSize=17&descAlignY=60" alt="Ragini Gupta" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002147&height=170&section=header&text=Ragini%20Gupta&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20and%20Analytics&descSize=17&descAlignY=60" alt="Ragini Gupta" width="100%" />
 
 **Transforming data into intelligent decisions**
 
