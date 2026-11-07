@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm a BSc Data Science student with a strong interest in **machine learning and data analytics**. I enjoy turning raw data into something people can act on, whether that's a customer segment, a churn prediction or a personalised recommendation.
+I'm a BSc Data Science student with a strong interest in **machine learning and data analytics**. I enjoy turning raw data into something people can act on, whether that's a customer segment, a churn prediction, a personalised recommendation or a placement readiness score.
 
 ## Machine learning focus
 
@@ -22,7 +22,8 @@ I'm a BSc Data Science student with a strong interest in **machine learning and 
 - **Association rule mining:** market basket analysis with Apriori
 - **Recommender systems:** content-based filtering with semantic search
 - **Data preparation and evaluation:** cleaning, feature engineering and model evaluation
-- **Analytics and visualisation:** interactive dashboards in Power BI
+- **Analytics and visualisation:** interactive dashboards in Power BI and Chart.js
+- **Data-driven apps:** scoring, skill-gap analysis and keyword matching inside a working web app
 
 ## Tech stack
 
@@ -43,6 +44,7 @@ I'm a BSc Data Science student with a strong interest in **machine learning and 
 | [**Smart Retail Analytics**](https://github.com/RaginiGupta21/smart-retail-analytics) | Customer segmentation (K-Means) and market basket analysis (Apriori) on UK retail data, with an interactive Power BI dashboard. | Python, K-Means, Apriori, Power BI |
 | [**GlowMatch BeautyTech Recommender**](https://github.com/RaginiGupta21/glowmatch-beautytech-recommender) | Recommendation engine that combines content-based filtering with semantic search for personalised product discovery. | Python, recommender systems |
 | [**Telecom Churn Prediction**](https://github.com/RaginiGupta21/Telecom-Churn-Prediction) | Predicts which telecom customers are likely to leave, using logistic regression and random forest. | Python, pandas, scikit-learn |
+| [**PlaceReady: Placement Readiness Tracker**](https://github.com/RaginiGupta21/placeready-tracker) | Web app that scores a student's placement readiness, shows skill gaps against role benchmarks, matches a resume to a job description with an ATS keyword scanner, and ranks a whole batch on an admin dashboard. | Python, FastAPI, SQLite, Chart.js |
 
 ## Let's connect
 
