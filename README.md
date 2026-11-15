@@ -17,13 +17,14 @@ I'm a BSc Data Science student with a strong interest in **machine learning and 
 
 ## Machine learning focus
 
-- **Supervised learning:** classification with logistic regression and random forest
+- **Supervised learning:** classification with logistic regression, random forest and AutoML (FLAML, LightGBM)
+- **Model explainability:** SHAP explanations and business-cost threshold tuning
 - **Unsupervised learning:** customer segmentation with K-Means clustering
 - **Association rule mining:** market basket analysis with Apriori
 - **Recommender systems:** content-based filtering with semantic search
 - **Data preparation and evaluation:** cleaning, feature engineering and model evaluation
 - **Analytics and visualisation:** interactive dashboards in Power BI and Chart.js
-- **Data-driven apps:** scoring, skill-gap analysis and keyword matching inside a working web app
+- **Data-driven apps:** live Streamlit churn predictor, and a web app for scoring, skill-gap analysis and keyword matching
 
 ## Tech stack
 
@@ -36,14 +37,18 @@ I'm a BSc Data Science student with a strong interest in **machine learning and 
 ![Power BI](https://img.shields.io/badge/Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-002147?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-002147?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-002147?style=flat-square&logo=streamlit&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-002147?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-002147?style=flat-square)
 
 ## Featured projects
 
 | Project | What it does | Tools |
 |---|---|---|
+| [**Telecom Churn Prediction (v2, AutoML)**](https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML) | Predicts which telecom customers will leave and why. Uses FLAML AutoML, picks the contact threshold by business cost (catching 84% of churners instead of 53% in tests), explains predictions with SHAP, and runs as a [live Streamlit app](https://telecom-churn-prediction-automl.streamlit.app/). | Python, FLAML, LightGBM, SHAP, Streamlit |
 | [**Smart Retail Analytics**](https://github.com/RaginiGupta21/smart-retail-analytics) | Customer segmentation (K-Means) and market basket analysis (Apriori) on UK retail data, with an interactive Power BI dashboard. | Python, K-Means, Apriori, Power BI |
 | [**GlowMatch BeautyTech Recommender**](https://github.com/RaginiGupta21/glowmatch-beautytech-recommender) | Recommendation engine that combines content-based filtering with semantic search for personalised product discovery. | Python, recommender systems |
-| [**Telecom Churn Prediction**](https://github.com/RaginiGupta21/Telecom-Churn-Prediction) | Predicts which telecom customers are likely to leave, using logistic regression and random forest. | Python, pandas, scikit-learn |
+| [**Telecom Churn Prediction (v1)**](https://github.com/RaginiGupta21/Telecom-Churn-Prediction) | Predicts which telecom customers are likely to leave, using logistic regression and random forest. | Python, pandas, scikit-learn |
 | [**PlaceReady: Placement Readiness Tracker**](https://github.com/RaginiGupta21/placeready-tracker) | Web app that scores a student's placement readiness, shows skill gaps against role benchmarks, matches a resume to a job description with an ATS keyword scanner, and ranks a whole batch on an admin dashboard. | Python, FastAPI, SQLite, Chart.js |
 
 ## Let's connect
