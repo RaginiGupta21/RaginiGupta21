@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/header.png" alt="Ragini Gupta, BSc Data Science" width="100%" />
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/hero.svg" alt="Ragini Gupta, BSc Data Science, Machine Learning, Analytics. Currently building machine learning models, analytics dashboards, recommender systems and data-driven web apps." width="100%" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/typing.svg" alt="Currently building: machine learning models, analytics dashboards, recommender systems, data-driven web apps" width="580" />
-
-<br/><br/>
-
-[![View my portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-002147?style=for-the-badge&logo=vercel&logoColor=white)](https://ragini-gupta-portfolio.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-002147?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raginigupta21/)
-[![Email](https://img.shields.io/badge/Email-002147?style=flat-square&logo=gmail&logoColor=white)](mailto:raginigupta210906@gmail.com)
+<p align="center">
+<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/btn-portfolio.png" alt="Portfolio" height="46" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raginigupta21/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/btn-linkedin.png" alt="LinkedIn" height="46" /></a>&nbsp;&nbsp;
+<a href="mailto:raginigupta210906@gmail.com"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/btn-email.png" alt="Email" height="46" /></a>
+</p>
 
 </div>
 
