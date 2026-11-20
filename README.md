@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## About me
 
 I'm a BSc Data Science student who likes turning raw data into decisions people can act on. I build machine learning models and analytics dashboards, and I finish each project with something you can open and try.
