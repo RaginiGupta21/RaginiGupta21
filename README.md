@@ -1,30 +1,29 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/hero.svg" alt="Ragini Gupta, BSc Data Science, Machine Learning, Analytics. Currently building machine learning models, analytics dashboards, recommender systems and data-driven web apps." width="100%" />
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/header.png" alt="Ragini Gupta, BSc Data Science" width="100%" />
 
-<p align="center">
-<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/btn-portfolio.png" alt="Portfolio" height="46" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/raginigupta21/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/btn-linkedin.png" alt="LinkedIn" height="46" /></a>&nbsp;&nbsp;
-<a href="mailto:raginigupta210906@gmail.com"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/btn-email.png" alt="Email" height="46" /></a>
-</p>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/typing.svg" alt="Currently building: machine learning models, analytics dashboards, recommender systems, data-driven web apps" width="580" />
+
+<br/><br/>
+
+[!\[View my portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-002147?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ragini-gupta-portfolio.vercel.app/)
+
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-002147?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/raginigupta21/)
+[!\[Email](https://img.shields.io/badge/Email-002147?style=flat-square\&logo=gmail\&logoColor=white)](mailto:raginigupta210906@gmail.com)
 
 </div>
 
----
+\---
 
 ## About me
 
 I'm a BSc Data Science student who likes turning raw data into decisions people can act on. I build machine learning models and analytics dashboards, and I finish each project with something you can open and try.
 
-- **What I build:** churn prediction, customer segmentation, recommender systems and data-driven web apps
-- **What I enjoy:** explainable machine learning, business-focused metrics and clear dashboards
-- **How I work:** one clear problem, a clean method, honest results and a live demo
-
-## Results at a glance
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/stats.svg" alt="84% of churners caught, 0.847 ROC-AUC, 7.28 million pounds in sales analysed, 1,472 products" width="100%" />
-</div>
+* **What I build:** churn prediction, customer segmentation, recommender systems and data-driven web apps
+* **What I enjoy:** explainable machine learning, business-focused metrics and clear dashboards
+* **How I work:** one clear problem, a clean method, honest results and a live demo
 
 ## Portfolio
 
@@ -50,25 +49,25 @@ I'm a BSc Data Science student who likes turning raw data into decisions people 
 
 ## Tech stack
 
-**Languages and data**&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-002147?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-002147?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-002147?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-002147?style=flat-square&logo=numpy&logoColor=white)
+**Languages and data**  
+!\[Python](https://img.shields.io/badge/Python-002147?style=flat-square\&logo=python\&logoColor=white)
+!\[SQL](https://img.shields.io/badge/SQL-002147?style=flat-square\&logo=postgresql\&logoColor=white)
+!\[Pandas](https://img.shields.io/badge/Pandas-002147?style=flat-square\&logo=pandas\&logoColor=white)
+!\[NumPy](https://img.shields.io/badge/NumPy-002147?style=flat-square\&logo=numpy\&logoColor=white)
 
-**Machine learning**&nbsp;&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-002147?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-002147?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-002147?style=flat-square)
+**Machine learning**  
+!\[scikit-learn](https://img.shields.io/badge/scikit--learn-002147?style=flat-square\&logo=scikitlearn\&logoColor=white)
+!\[LightGBM](https://img.shields.io/badge/LightGBM-002147?style=flat-square)
+!\[SHAP](https://img.shields.io/badge/SHAP-002147?style=flat-square)
 
-**Visualisation and apps**&nbsp;&nbsp;
-![Power BI](https://img.shields.io/badge/Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-002147?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-002147?style=flat-square&logo=streamlit&logoColor=white)
+**Visualisation and apps**  
+!\[Power BI](https://img.shields.io/badge/Power\_BI-002147?style=flat-square\&logo=powerbi\&logoColor=white)
+!\[Matplotlib](https://img.shields.io/badge/Matplotlib-002147?style=flat-square\&logo=plotly\&logoColor=white)
+!\[Streamlit](https://img.shields.io/badge/Streamlit-002147?style=flat-square\&logo=streamlit\&logoColor=white)
 
-**Tools**&nbsp;&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-002147?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-002147?style=flat-square&logo=git&logoColor=white)
+**Tools**  
+!\[Jupyter](https://img.shields.io/badge/Jupyter-002147?style=flat-square\&logo=jupyter\&logoColor=white)
+!\[Git](https://img.shields.io/badge/Git-002147?style=flat-square\&logo=git\&logoColor=white)
 
 ## Featured projects
 
@@ -89,10 +88,10 @@ I'm a BSc Data Science student who likes turning raw data into decisions people 
 
 <p align="center">
 <b>Source code:</b>
-<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML">Churn v2</a> &nbsp;|&nbsp;
-<a href="https://github.com/RaginiGupta21/smart-retail-analytics">Smart Retail</a> &nbsp;|&nbsp;
-<a href="https://github.com/RaginiGupta21/placeready-tracker">PlaceReady</a> &nbsp;|&nbsp;
-<a href="https://github.com/RaginiGupta21/glowmatch-beautytech-recommender">GlowMatch</a> &nbsp;|&nbsp;
+<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML">Churn v2</a> \&nbsp;|\&nbsp;
+<a href="https://github.com/RaginiGupta21/smart-retail-analytics">Smart Retail</a> \&nbsp;|\&nbsp;
+<a href="https://github.com/RaginiGupta21/placeready-tracker">PlaceReady</a> \&nbsp;|\&nbsp;
+<a href="https://github.com/RaginiGupta21/glowmatch-beautytech-recommender">GlowMatch</a> \&nbsp;|\&nbsp;
 <a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction">Churn v1</a>
 </p>
 
@@ -105,3 +104,4 @@ I'm a BSc Data Science student who likes turning raw data into decisions people 
   <img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/footer.png" alt="Let's build something with data" width="100%" />
 </a>
 </div>
+
