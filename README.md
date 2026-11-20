@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/header.png" alt="Ragini Gupta - Transforming Data into Intelligent Decisions" width="100%" />
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/header.png" alt="Ragini Gupta, BSc Data Science" width="100%" />
 
-<br/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/typing.svg" alt="Currently building: machine learning models, analytics dashboards, recommender systems, data-driven web apps" width="580" />
+
+<br/><br/>
 
 [![View my portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-002147?style=for-the-badge&logo=vercel&logoColor=white)](https://ragini-gupta-portfolio.vercel.app/)
 
@@ -21,6 +25,12 @@ I'm a BSc Data Science student who likes turning raw data into decisions people 
 - **What I enjoy:** explainable machine learning, business-focused metrics and clear dashboards
 - **How I work:** one clear problem, a clean method, honest results and a live demo
 
+## Results at a glance
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/stats.svg" alt="84% of churners caught, 0.847 ROC-AUC, 7.28 million pounds in sales analysed, 1,472 products" width="100%" />
+</div>
+
 ## Portfolio
 
 <div align="center">
@@ -31,42 +41,17 @@ I'm a BSc Data Science student who likes turning raw data into decisions people 
 
 ## What I work on
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<p align="center">
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-ml.png" alt="Machine learning" width="32%" />
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-analytics.png" alt="Analytics and BI" width="32%" />
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-apps.png" alt="Data apps" width="32%" />
+</p>
 
-**Machine learning**
+## How I build
 
-- Classification: logistic regression, random forest, AutoML
-- Clustering with K-Means
-- Association rules with Apriori
-- Recommender systems
-- Explainability with SHAP
-
-</td>
-<td width="33%" valign="top">
-
-**Analytics and BI**
-
-- Data cleaning and feature engineering
-- Power BI dashboards
-- Customer segmentation
-- Cost-based decision thresholds
-- Model evaluation
-
-</td>
-<td width="33%" valign="top">
-
-**Data apps**
-
-- Live Streamlit apps
-- Chart.js dashboards
-- SQL-backed web app
-- Resume and skill-gap analysis
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/pipeline.svg" alt="My workflow: data, clean, model, explain, deploy" width="100%" />
+</div>
 
 ## Tech stack
 
@@ -92,40 +77,31 @@ I'm a BSc Data Science student who likes turning raw data into decisions people 
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-churn-v2.png" alt="Telecom Churn v2" width="100%" /></a>
-<br/><a href="https://telecom-churn-prediction-automl.streamlit.app/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML">Code</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/RaginiGupta21/smart-retail-analytics"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-retail.png" alt="Smart Retail Analytics" width="100%" /></a>
-<br/><a href="https://smart-retail-analytic.streamlit.app/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/RaginiGupta21/smart-retail-analytics">Code</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/RaginiGupta21/placeready-tracker"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-placeready.png" alt="PlaceReady Tracker" width="100%" /></a>
-<br/><a href="https://placeready-tracker.onrender.com/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/RaginiGupta21/placeready-tracker">Code</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/RaginiGupta21/glowmatch-beautytech-recommender"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-glowmatch.png" alt="GlowMatch Recommender" width="100%" /></a>
-<br/><a href="https://glowmatch-beautytech-recommender.streamlit.app/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/RaginiGupta21/glowmatch-beautytech-recommender">Code</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-churn-v1.png" alt="Telecom Churn v1" width="100%" /></a>
-<br/><a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction">Code</a>
-</td>
-<td width="50%" align="center">
-<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-more.png" alt="Explore the full portfolio" width="100%" /></a>
-<br/><a href="https://ragini-gupta-portfolio.vercel.app/">Visit the portfolio</a>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://telecom-churn-prediction-automl.streamlit.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-churn-v2.png" alt="Telecom Churn v2, live demo" width="48.5%" /></a>
+<a href="https://smart-retail-analytic.streamlit.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-retail.png" alt="Smart Retail Analytics, live demo" width="48.5%" /></a>
+</p>
 
-> The live demos run on free hosting, so an app can take up to a minute to wake up on the first visit.
+<p align="center">
+<a href="https://placeready-tracker.onrender.com/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-placeready.png" alt="PlaceReady Tracker, live demo" width="48.5%" /></a>
+<a href="https://glowmatch-beautytech-recommender.streamlit.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-glowmatch.png" alt="GlowMatch Recommender, live demo" width="48.5%" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-churn-v1.png" alt="Telecom Churn v1, code" width="48.5%" /></a>
+<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/card-more.png" alt="Explore the full portfolio" width="48.5%" /></a>
+</p>
+
+<p align="center">
+<b>Source code:</b>
+<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML">Churn v2</a> &nbsp;|&nbsp;
+<a href="https://github.com/RaginiGupta21/smart-retail-analytics">Smart Retail</a> &nbsp;|&nbsp;
+<a href="https://github.com/RaginiGupta21/placeready-tracker">PlaceReady</a> &nbsp;|&nbsp;
+<a href="https://github.com/RaginiGupta21/glowmatch-beautytech-recommender">GlowMatch</a> &nbsp;|&nbsp;
+<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction">Churn v1</a>
+</p>
+
+> Click a card with a LIVE DEMO tag to open the app. The demos run on free hosting, so an app can take up to a minute to wake up on the first visit.
 
 <br/>
 
