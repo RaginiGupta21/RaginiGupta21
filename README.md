@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/hero.svg" alt="Ragini Gupta, BSc Data Science, Machine Learning, Analytics. Currently building machine learning models, analytics dashboards, recommender systems and data-driven web apps." width="100%" />
+<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/hero.svg" alt="Ragini Gupta, BSc Data Science, Machine Learning, Analytics. Currently building machine learning models, analytics dashboards, recommender systems and data-driven web apps." width="100%" /></a>
 
 <p align="center">
 <a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/btn-portfolio.png" alt="Portfolio" height="46" /></a>&nbsp;&nbsp;
@@ -12,32 +12,26 @@
 
 ## About me
 
-I'm a BSc Data Science student who likes turning raw data into decisions people can act on. I build machine learning models and analytics dashboards, and I finish each project with something you can open and try.
-
-- **What I build:** churn prediction, customer segmentation, recommender systems and data-driven web apps
-- **What I enjoy:** explainable machine learning, business-focused metrics and clear dashboards
-- **How I work:** one clear problem, a clean method, honest results and a live demo
+Data is only useful when someone can act on it. I'm a BSc Data Science student who builds machine learning models and analytics dashboards that answer a real question, explain why, and ship as something you can open and try. Every project follows the same rule: a clear problem, a clean method, honest results and a live demo.
 
 ## Portfolio
 
 <div align="center">
-<a href="https://ragini-gupta-portfolio.vercel.app/">
-  <img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/portfolio-card.png" alt="Ragini Gupta portfolio: Raw data in. Decisions out." width="100%" />
-</a>
+<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/portfolio-live.svg" alt="Portfolio: Raw data in. Decisions out. 0.847 ROC-AUC, 84% of churners caught, 7.28 million pounds in sales analysed, 1,472 products." width="100%" /></a>
 </div>
 
 ## What I work on
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-ml.png" alt="Machine learning" width="32%" />
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-analytics.png" alt="Analytics and BI" width="32%" />
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-apps.png" alt="Data apps" width="32%" />
+<a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-ml.png" alt="Machine learning" width="32%" /></a>
+<a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-analytics.png" alt="Analytics and BI" width="32%" /></a>
+<a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-apps.png" alt="Data apps" width="32%" /></a>
 </p>
 
 ## How I build
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/pipeline.svg" alt="My workflow: data, clean, model, explain, deploy" width="100%" />
+<a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/pipeline.svg" alt="My workflow: data, clean, model, explain, deploy" width="100%" /></a>
 </div>
 
 ## Tech stack
