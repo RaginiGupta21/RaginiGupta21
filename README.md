@@ -12,49 +12,39 @@
 
 ## About me
 
-Data is only useful when someone can act on it. I'm a BSc Data Science student who builds machine learning models and analytics dashboards that answer a real question, explain why, and ship as something you can open and try. Every project follows the same rule: a clear problem, a clean method, honest results and a live demo.
-
-## Portfolio
-
 <div align="center">
-<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/portfolio-live.svg" alt="Portfolio: Raw data in. Decisions out. 0.847 ROC-AUC, 84% of churners caught, 7.28 million pounds in sales analysed, 1,472 products." width="100%" /></a>
+<a href="#about-me"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/notebook.svg" alt="about_ragini.ipynb: ragini = studying BSc Data Science, builds churn models, customer segments, recommenders and data apps, believes a prediction is only useful if you can explain it. ragini.say_hello() returns: Hi, I'm Ragini. Try a demo, break it, tell me what to improve." width="100%" /></a>
 </div>
 
-## What I work on
+## 60-second tour
+
+No time to read everything? Here is the fast path.
 
 <p align="center">
-<a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-ml.png" alt="Machine learning" width="32%" /></a>
-<a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-analytics.png" alt="Analytics and BI" width="32%" /></a>
-<a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/work-apps.png" alt="Data apps" width="32%" /></a>
+<a href="https://telecom-churn-prediction-automl.streamlit.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/tour-1.png" alt="1. Try it: open the Telecom Churn app" width="32%" /></a>
+<a href="https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/tour-2.png" alt="2. Read it: the code behind the app" width="32%" /></a>
+<a href="https://ragini-gupta-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/tour-3.png" alt="3. Go deeper: the portfolio" width="32%" /></a>
 </p>
+
+## By the numbers
+
+<div align="center">
+<a href="#by-the-numbers"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/kpi.svg" alt="5 projects built, 4 live demos, 0.847 ROC-AUC for the best of 6 models, 1,472 products analysed across 116 brands" width="100%" /></a>
+</div>
+
+## Toolkit map
+
+<div align="center">
+<a href="#toolkit-map"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/toolmap.svg" alt="A map linking each of my five projects to the tools it uses: Python in all five, Streamlit in three, and scikit-learn, AutoML with SHAP, Power BI, FastAPI with SQLite and NLP in one each." width="100%" /></a>
+</div>
+
+Also comfortable with SQL, Pandas, NumPy, Matplotlib, Jupyter and Git.
 
 ## How I build
 
 <div align="center">
 <a href="#featured-projects"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/pipeline.svg" alt="My workflow: data, clean, model, explain, deploy" width="100%" /></a>
 </div>
-
-## Tech stack
-
-**Languages and data**&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-002147?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-002147?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-002147?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-002147?style=flat-square&logo=numpy&logoColor=white)
-
-**Machine learning**&nbsp;&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-002147?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-002147?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-002147?style=flat-square)
-
-**Visualisation and apps**&nbsp;&nbsp;
-![Power BI](https://img.shields.io/badge/Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-002147?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-002147?style=flat-square&logo=streamlit&logoColor=white)
-
-**Tools**&nbsp;&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-002147?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-002147?style=flat-square&logo=git&logoColor=white)
 
 ## Featured projects
 
