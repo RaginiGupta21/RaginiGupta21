@@ -35,10 +35,8 @@ No time to read everything? Here is the fast path.
 ## Toolkit map
 
 <div align="center">
-<a href="#toolkit-map"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/toolmap.svg" alt="A map linking each of my five projects to the tools it uses: Python in all five, Streamlit in three, and scikit-learn, AutoML with SHAP, Power BI, FastAPI with SQLite and NLP in one each." width="100%" /></a>
+<a href="#toolkit-map"><img src="https://raw.githubusercontent.com/RaginiGupta21/RaginiGupta21/main/assets/toolmap.svg" alt="Toolkit map with logos: each of my five projects linked to the tools it uses, Python in all five, Streamlit in three, and scikit-learn, AutoML with SHAP, Power BI, FastAPI, SQLite and NLP in one each. Also in my toolkit: SQL, pandas, NumPy, Matplotlib, Jupyter and Git." width="100%" /></a>
 </div>
-
-Also comfortable with SQL, Pandas, NumPy, Matplotlib, Jupyter and Git.
 
 ## How I build
 
